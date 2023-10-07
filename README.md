@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm mama2025</h1>
-<h3 align="center">A passionate self taught web developer from Lebanon</h3>
+<h2>Hi 👋, I'm mama2025</h2>
+<h3>A passionate self taught web developer from Lebanon</h3>
 
 - 🔭 I’m currently working on **improving my skills**
 
@@ -7,7 +7,6 @@
 
 - 👯 I’m looking to collaborate on **react js open source repo**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
